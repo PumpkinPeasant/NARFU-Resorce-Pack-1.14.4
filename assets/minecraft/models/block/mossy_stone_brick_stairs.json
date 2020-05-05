@@ -1,0 +1,9 @@
+{
+    "parent": "block/stairs",
+	"render": "translucent",
+    "textures": {
+        "bottom": "block/glass",
+        "top": "block/glass",
+        "side": "block/glass"
+    }
+}
